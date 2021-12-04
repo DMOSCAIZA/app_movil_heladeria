@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">DiBari</string>
+    <string name="dibari">DiBari</string>
+    <string name="heladeria_sangucheria_artesanal">heladeria - sangucheria artesanal</string>
+    <string name="title_home">title_home</string>
+    <string name="title_dashboard">title_dashboard</string>
+    <string name="title_notifications">title_notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="shop">Shop</string>
+    <string name="inicio">Inicio</string>
+    <string name="carrito">Carrito</string>
+    <string name="mi_cuenta">Mi Cuenta</string>
+    <string name="que_deseas_pedir">¿Qué deseas pedir?</string>
+    <string name="categorias">Categorías</string>
+    <string name="productos_destacados">Productos Destacados</string>
+    <string name="helados_artesanales">Helados Artesanales</string>
+    <string name="vaso_2_sabores">Vaso 2 sabores</string>
+    <string name="img_producto_destacado">img_producto_destacado</string>
+    <string name="s">S/.</string>
+    <string name="cantidad_precio">4.00</string>
+    <string name="para_cuenta_del_usuario">Para cuenta del Usuario</string>
+    <string name="compra_de_productos">Compra de Productos</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="correo_electr_nico">Correo electrónico</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="recordar">Recordar</string>
+    <string name="string_recordar">recordar</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO1</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="inicia_sesion_para_realizar_tus_compras">Inicia sesion para realizar tus compras</string>
+</resources>
